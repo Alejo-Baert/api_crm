@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "alejo",
+      "empresa": "asdasd",
+      "email": "alejobaert@hotmail.com",
+      "telefono": "1231232",
+      "notas": "sadasd",
+      "id": 2
+    },
+    {
+      "nombre": "asd",
+      "empresa": "asdasd",
+      "email": "alejobaert@hotmail.com",
+      "telefono": "1231232",
+      "notas": "165123",
+      "id": 3
+    },
+    {
+      "nombre": "Alejo",
+      "empresa": "asdasd",
+      "email": "alejobaert4444@outlook.comasdasd",
+      "telefono": "1212",
+      "notas": "121",
+      "id": 4
+    }
+  ]
+}
